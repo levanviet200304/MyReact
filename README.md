@@ -14,3 +14,6 @@ cau18 (https://codepen.io/levanviet200304/pen/VwdNWRq)
 cau19 (https://codepen.io/levanviet200304/pen/wvXZeOB)
 cau20 (https://codepen.io/levanviet200304/pen/jOKRwRM)
 cau21 (https://codepen.io/levanviet200304/pen/LYrvLvJ)
+## thực hành
+bài thực hành số 2 (https://codepen.io/levanviet200304/pen/VwdNzYR)
+bài thực hành số 3 (https://codepen.io/levanviet200304/pen/MWXRvaE)
